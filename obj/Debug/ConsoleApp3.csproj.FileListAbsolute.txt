@@ -1,0 +1,8 @@
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\shitrteproject\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
